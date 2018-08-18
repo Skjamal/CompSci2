@@ -54,9 +54,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="353" />
-    <option name="y" value="66" />
-    <option name="width" value="1315" />
+    <option name="x" value="17" />
+    <option name="y" value="2" />
+    <option name="width" value="1750" />
     <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
@@ -79,7 +79,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment5/dijkstra.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
